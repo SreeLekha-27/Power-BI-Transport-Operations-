@@ -1,21 +1,21 @@
 #  Transport Operations Dashboard – Power BI Project
 
-## **Description**
+## ** Description **
 A Power BI Transport Operations Dashboard analyzing fleet performance using on-time delivery %, fuel efficiency trends, vehicle maintenance cost, delivery status, and AI visuals (Q&A, Key Influencers, Decomposition Tree) to optimize routes and improve fleet usage.
 
 ---
 
-##  **Key Features**
+##  ** Key Features **
 
-### ** On-Time Delivery Performance**
+### ** On-Time Delivery Performance **
 - Bar chart showing delivery efficiency by destination  
 - Highlights delays, early deliveries, and route performance
 
-### ** Fuel Efficiency Trend**
+### ** Fuel Efficiency Trend **
 - Line chart visualizing fuel usage over time  
 - Helps identify vehicles with rising fuel consumption
 
-### ** Cost Insights**
+### ** Cost Insights **
 - **Average Cost per Km** (DAX measure)  
 - Pie chart for **vehicle-type maintenance cost comparison**  
 - Cost drivers broken down using advanced visuals
@@ -30,7 +30,7 @@ A Power BI Transport Operations Dashboard analyzing fleet performance using on-t
 
 ---
 
-## **Purpose**
+## ** Purpose **
 This dashboard helps transportation and logistics teams:
 - Improve route planning  
 - Monitor vehicle performance  
@@ -40,7 +40,7 @@ This dashboard helps transportation and logistics teams:
 
 ---
 
-## **Tools Used**
+## ** Tools Used **
 - **Power BI Desktop**  
 - **DAX Measures**  
 - **Data Modeling**  
